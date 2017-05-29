@@ -1,4 +1,4 @@
-# Machine-Learning-Foundations-A-Case-Study-Approach
+# Machine learning foundations: A case study approach
 
 ![Pictures](Pictures/ml.jpg)
 
